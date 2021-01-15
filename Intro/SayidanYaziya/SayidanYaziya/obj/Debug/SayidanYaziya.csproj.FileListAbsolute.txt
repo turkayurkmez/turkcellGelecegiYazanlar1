@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayidanYaziya\SayidanYaziya\bin\Debug\SayidanYaziya.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayidanYaziya\SayidanYaziya\bin\Debug\SayidanYaziya.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayidanYaziya\SayidanYaziya\bin\Debug\SayidanYaziya.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayidanYaziya\SayidanYaziya\obj\Debug\SayidanYaziya.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayidanYaziya\SayidanYaziya\obj\Debug\SayidanYaziya.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayidanYaziya\SayidanYaziya\obj\Debug\SayidanYaziya.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayidanYaziya\SayidanYaziya\obj\Debug\SayidanYaziya.pdb

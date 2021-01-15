@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\KararYapisi_If\KararYapisi_If\bin\Debug\KararYapisi_If.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\KararYapisi_If\KararYapisi_If\bin\Debug\KararYapisi_If.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\KararYapisi_If\KararYapisi_If\bin\Debug\KararYapisi_If.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\KararYapisi_If\KararYapisi_If\obj\Debug\KararYapisi_If.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\KararYapisi_If\KararYapisi_If\obj\Debug\KararYapisi_If.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\KararYapisi_If\KararYapisi_If\obj\Debug\KararYapisi_If.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\KararYapisi_If\KararYapisi_If\obj\Debug\KararYapisi_If.pdb

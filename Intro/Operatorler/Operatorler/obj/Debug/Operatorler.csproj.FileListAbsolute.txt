@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Operatorler\Operatorler\bin\Debug\Operatorler.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Operatorler\Operatorler\bin\Debug\Operatorler.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Operatorler\Operatorler\bin\Debug\Operatorler.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Operatorler\Operatorler\obj\Debug\Operatorler.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Operatorler\Operatorler\obj\Debug\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Operatorler\Operatorler\obj\Debug\Operatorler.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Operatorler\Operatorler\obj\Debug\Operatorler.pdb

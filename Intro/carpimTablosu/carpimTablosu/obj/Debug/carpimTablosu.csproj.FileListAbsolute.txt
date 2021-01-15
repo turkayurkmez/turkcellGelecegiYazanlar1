@@ -1,0 +1,6 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\carpimTablosu\carpimTablosu\bin\Debug\carpimTablosu.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\carpimTablosu\carpimTablosu\bin\Debug\carpimTablosu.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\carpimTablosu\carpimTablosu\bin\Debug\carpimTablosu.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\carpimTablosu\carpimTablosu\obj\Debug\carpimTablosu.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\carpimTablosu\carpimTablosu\obj\Debug\carpimTablosu.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\carpimTablosu\carpimTablosu\obj\Debug\carpimTablosu.pdb

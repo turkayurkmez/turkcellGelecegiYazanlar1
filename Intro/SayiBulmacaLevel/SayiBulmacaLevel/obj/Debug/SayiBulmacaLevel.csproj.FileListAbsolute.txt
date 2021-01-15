@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayiBulmacaLevel\SayiBulmacaLevel\bin\Debug\SayiBulmacaLevel.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayiBulmacaLevel\SayiBulmacaLevel\bin\Debug\SayiBulmacaLevel.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayiBulmacaLevel\SayiBulmacaLevel\bin\Debug\SayiBulmacaLevel.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayiBulmacaLevel\SayiBulmacaLevel\obj\Debug\SayiBulmacaLevel.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayiBulmacaLevel\SayiBulmacaLevel\obj\Debug\SayiBulmacaLevel.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayiBulmacaLevel\SayiBulmacaLevel\obj\Debug\SayiBulmacaLevel.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayiBulmacaLevel\SayiBulmacaLevel\obj\Debug\SayiBulmacaLevel.pdb

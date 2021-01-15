@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaElements", "MediaElements\MediaElements.csproj", "{BEF5C19D-99D0-4B06-AB54-802066A90DA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF5C19D-99D0-4B06-AB54-802066A90DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF5C19D-99D0-4B06-AB54-802066A90DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF5C19D-99D0-4B06-AB54-802066A90DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF5C19D-99D0-4B06-AB54-802066A90DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6117F655-50D9-47B8-A96E-6D847BD1C9EC}
+	EndGlobalSection
+EndGlobal

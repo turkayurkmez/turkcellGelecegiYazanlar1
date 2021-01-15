@@ -1,0 +1,6 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Constructors\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Constructors\Constructors\bin\Debug\Constructors.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Constructors\Constructors\bin\Debug\Constructors.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Constructors\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Constructors\Constructors\obj\Debug\Constructors.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Constructors\Constructors\obj\Debug\Constructors.pdb

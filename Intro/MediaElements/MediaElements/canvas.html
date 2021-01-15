@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <canvas id="oyun" width="850" height="500">
+
+    </canvas>
+    <button onclick="topEkle()">Top Ekle</button>
+    <script>
+        function Top(x, y, dx, dy, radius) {
+            this.x = x;
+            this.y = y;
+            this.dx = dx;
+            this.dy = dy;
+            this.radius = radius;
+
+        }
+        var toplar = [];
+        /** @type {HTMLCanvasElement} */
+        var canvas = document.querySelector('#oyun');
+        var context = canvas.getContext('2d');
+        window.onload = function () {
+            alanOlustur();
+        }
+
+        function alanOlustur() {
+            context.clearRect(0, 0, canvas.width, canvas.height);
+            context.strokeRect(0, 0, canvas.width, canvas.height);
+            for (var i = 0; i < toplar.length; i++) {
+                var top = toplar[i];
+                top.x += top.dx;
+                top.y += top.dy;
+
+                if ((top.y + top.radius) > canvas.height || (top.y - top.radius) < 0) {
+                    top.dy = -top.dy;
+                }
+
+                if ((top.x + top.radius) > canvas.width || (top.x - top.radius) < 0) {
+                    top.dx = -top.dx;
+                }
+                context.beginPath();
+                context.fillStyle = 'red';
+                context.strokeStyle = 'black';
+                context.lineWidth = 1;
+                context.arc(top.x, top.y, top.radius, 0, Math.PI * 2);
+                context.fill();
+                context.stroke();
+            }
+            setTimeout('alanOlustur()', 1);
+        }
+
+        function topEkle() {
+            var top = new Top(50, 50, 2, 2, 15);
+            toplar.push(top);
+        }
+    </script>
+</body>
+
+</html>

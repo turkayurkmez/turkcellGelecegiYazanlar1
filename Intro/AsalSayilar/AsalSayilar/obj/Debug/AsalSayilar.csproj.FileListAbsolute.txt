@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\AsalSayilar\AsalSayilar\bin\Debug\AsalSayilar.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\AsalSayilar\AsalSayilar\bin\Debug\AsalSayilar.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\AsalSayilar\AsalSayilar\bin\Debug\AsalSayilar.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.pdb

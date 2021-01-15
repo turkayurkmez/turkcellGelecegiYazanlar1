@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\IntroCshrap\IntroCshrap\bin\Debug\IntroCshrap.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\IntroCshrap\IntroCshrap\bin\Debug\IntroCshrap.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\IntroCshrap\IntroCshrap\bin\Debug\IntroCshrap.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\IntroCshrap\IntroCshrap\obj\Debug\IntroCshrap.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\IntroCshrap\IntroCshrap\obj\Debug\IntroCshrap.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\IntroCshrap\IntroCshrap\obj\Debug\IntroCshrap.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\IntroCshrap\IntroCshrap\obj\Debug\IntroCshrap.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroCshrap", "IntroCshrap\IntroCshrap.csproj", "{43D683B0-5978-43FE-8197-CB49E1417E09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D683B0-5978-43FE-8197-CB49E1417E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D683B0-5978-43FE-8197-CB49E1417E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D683B0-5978-43FE-8197-CB49E1417E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D683B0-5978-43FE-8197-CB49E1417E09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57293204-1408-4D46-8CEB-52911F56AEEE}
+	EndGlobalSection
+EndGlobal

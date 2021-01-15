@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SiralamaAlgotimasi\SiralamaAlgotimasi\bin\Debug\SiralamaAlgotimasi.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SiralamaAlgotimasi\SiralamaAlgotimasi\bin\Debug\SiralamaAlgotimasi.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SiralamaAlgotimasi\SiralamaAlgotimasi\bin\Debug\SiralamaAlgotimasi.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SiralamaAlgotimasi\SiralamaAlgotimasi\obj\Debug\SiralamaAlgotimasi.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SiralamaAlgotimasi\SiralamaAlgotimasi\obj\Debug\SiralamaAlgotimasi.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SiralamaAlgotimasi\SiralamaAlgotimasi\obj\Debug\SiralamaAlgotimasi.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SiralamaAlgotimasi\SiralamaAlgotimasi\obj\Debug\SiralamaAlgotimasi.pdb

@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\introOOP\introOOP\bin\Debug\introOOP.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\introOOP\introOOP\bin\Debug\introOOP.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\introOOP\introOOP\bin\Debug\introOOP.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\introOOP\introOOP\obj\Debug\introOOP.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\introOOP\introOOP\obj\Debug\introOOP.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\introOOP\introOOP\obj\Debug\introOOP.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\introOOP\introOOP\obj\Debug\introOOP.pdb

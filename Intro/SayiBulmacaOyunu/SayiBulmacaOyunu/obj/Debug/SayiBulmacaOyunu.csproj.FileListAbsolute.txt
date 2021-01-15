@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayiBulmacaOyunu\SayiBulmacaOyunu\bin\Debug\SayiBulmacaOyunu.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayiBulmacaOyunu\SayiBulmacaOyunu\bin\Debug\SayiBulmacaOyunu.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayiBulmacaOyunu\SayiBulmacaOyunu\bin\Debug\SayiBulmacaOyunu.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayiBulmacaOyunu\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayiBulmacaOyunu\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayiBulmacaOyunu\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\SayiBulmacaOyunu\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.pdb

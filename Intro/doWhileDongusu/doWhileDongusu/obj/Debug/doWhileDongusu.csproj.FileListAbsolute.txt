@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\doWhileDongusu\doWhileDongusu\bin\Debug\doWhileDongusu.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\doWhileDongusu\doWhileDongusu\bin\Debug\doWhileDongusu.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\doWhileDongusu\doWhileDongusu\bin\Debug\doWhileDongusu.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\doWhileDongusu\doWhileDongusu\obj\Debug\doWhileDongusu.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\doWhileDongusu\doWhileDongusu\obj\Debug\doWhileDongusu.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\doWhileDongusu\doWhileDongusu\obj\Debug\doWhileDongusu.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\doWhileDongusu\doWhileDongusu\obj\Debug\doWhileDongusu.pdb

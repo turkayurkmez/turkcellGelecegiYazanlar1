@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Metotlar\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Metotlar\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Metotlar\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Metotlar\Metotlar\obj\Debug\Metotlar.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Metotlar\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Metotlar\Metotlar\obj\Debug\Metotlar.pdb

@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <video id="fragman" controls muted poster="/impossibletriangle.png">
+        <source src="http://media.w3.org/2010/05/sintel/trailer.ogv" />
+    </video>
+    <div>
+        <button id="baslat">Başlat</button>
+        <button id="durdur">Duraklat</button>
+        <select id="hiz">
+            <option value="0.25">0.25</option>
+            <option value="0.50">0.50</option>
+            <option value="1">1</option>
+            <option value="1.5">1.5</option>
+            <option value="2">2</option>
+        </select>
+    </div>
+    <audio controls>
+        <source src="music.mp3" />
+
+    </audio>
+    <script>
+        document.getElementById('baslat').addEventListener('click', function () {
+            /** @type {HTMLMediaElement} */
+            var video = document.querySelector('#fragman');
+            if (video.paused || video.ended) {
+                video.play();
+                baslat.innerText = 'Durdur';
+            } else {
+                video.pause();
+                baslat.innerText = 'Başlat';
+            }
+        });
+
+        document.querySelector('#hiz').addEventListener('change', function () {
+            /** @type {HTMLMediaElement} */
+            var video = document.querySelector('#fragman');
+            video.playbackRate = this.value;
+          
+        });
+
+    </script>
+</body>
+</html>

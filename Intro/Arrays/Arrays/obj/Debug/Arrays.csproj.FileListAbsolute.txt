@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\Arrays\Arrays\obj\Debug\Arrays.pdb

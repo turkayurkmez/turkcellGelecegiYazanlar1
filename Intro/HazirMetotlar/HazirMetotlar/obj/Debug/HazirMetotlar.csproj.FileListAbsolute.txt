@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\HazirMetotlar\HazirMetotlar\bin\Debug\HazirMetotlar.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\HazirMetotlar\HazirMetotlar\bin\Debug\HazirMetotlar.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\HazirMetotlar\HazirMetotlar\bin\Debug\HazirMetotlar.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\HazirMetotlar\HazirMetotlar\obj\Debug\HazirMetotlar.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\HazirMetotlar\HazirMetotlar\obj\Debug\HazirMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\HazirMetotlar\HazirMetotlar\obj\Debug\HazirMetotlar.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\HazirMetotlar\HazirMetotlar\obj\Debug\HazirMetotlar.pdb

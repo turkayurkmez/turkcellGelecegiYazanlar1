@@ -1,0 +1,6 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\VarMiYokMu\VarMiYokMu\bin\Debug\VarMiYokMu.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\VarMiYokMu\VarMiYokMu\bin\Debug\VarMiYokMu.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\VarMiYokMu\VarMiYokMu\bin\Debug\VarMiYokMu.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\VarMiYokMu\VarMiYokMu\obj\Debug\VarMiYokMu.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\VarMiYokMu\VarMiYokMu\obj\Debug\VarMiYokMu.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Intro\VarMiYokMu\VarMiYokMu\obj\Debug\VarMiYokMu.pdb
