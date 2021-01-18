@@ -56,7 +56,7 @@ namespace introEFCore.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLOCALDB; Database=LadiesOfTurkcell;Integrated Security = yes");
+                optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLOCALDB; Database=LadiesOfTurkcell;Integrated Security=yes");
             }
         }
 

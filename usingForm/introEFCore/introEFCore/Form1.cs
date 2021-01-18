@@ -1,4 +1,5 @@
-﻿using System;
+﻿using introEFCore.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,18 @@ namespace introEFCore
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            Director director = new Director();
+            director.Name = "Nuri Bilge";
+            director.LastName = "Ceylan";
+            Movie ahlat = new Movie();
+            ahlat.Name = "Ahlat Ağacı";
+
+            director.Movies.Add(ahlat);
+            
         }
     }
 }
