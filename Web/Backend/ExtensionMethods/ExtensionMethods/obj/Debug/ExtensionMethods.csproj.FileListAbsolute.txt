@@ -1,0 +1,6 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

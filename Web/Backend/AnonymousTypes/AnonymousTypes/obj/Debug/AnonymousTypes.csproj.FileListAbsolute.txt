@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\AnonymousTypes\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\AnonymousTypes\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\AnonymousTypes\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.pdb
