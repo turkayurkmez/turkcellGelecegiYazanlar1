@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\usingDelegates\usingDelegates\bin\Debug\usingDelegates.exe.config
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\usingDelegates\usingDelegates\bin\Debug\usingDelegates.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\usingDelegates\usingDelegates\bin\Debug\usingDelegates.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\usingDelegates\usingDelegates\obj\Debug\usingDelegates.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\usingDelegates\usingDelegates\obj\Debug\usingDelegates.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\usingDelegates\usingDelegates\obj\Debug\usingDelegates.exe
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\usingDelegates\usingDelegates\obj\Debug\usingDelegates.pdb

@@ -12,13 +12,13 @@ namespace introEFCore.Data
     {
         public TurkcellDbContext()
         {
-
+           
         }
         public TurkcellDbContext(DbContextOptions<TurkcellDbContext> options):base(options)
         {
-
+               
         }
-        public DbSet<Director>  Directors { get; set; }
+        public DbSet<Director> Directors { get; set; }
         public DbSet<Genre> Genres { get; set; }
         public DbSet<Movie> Movies { get; set; }
         public DbSet<Artist> Artists { get; set; }
