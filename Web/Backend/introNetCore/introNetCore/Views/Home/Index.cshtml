@@ -1,16 +1,12 @@
-﻿
+﻿@model IEnumerable<Product>
 @{
-    Layout = null;
+    Layout = "/Views/Shared/_Layout.cshtml";
 }
 
-<!DOCTYPE html>
 
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Index</title>
-</head>
-<body>
+
+
+
     <h1>Ana sayfa</h1>
     <p>Sayfamıza hoş geldin!</p>
     <p>
@@ -33,10 +29,11 @@
         <p>İyi geceler</p>
     }
     <ul>
-        @foreach (var item in ViewBag.Products)
+        @foreach (var item in Model)
         {
-            <li>@item</li>
+            <li>@item.Name isimli ürünün fiyatı, @item.Price TL</li>
         }
     </ul>
-</body>
-</html>
+    Koronaya veda partisi düzenliyoruz. Katılmak için  <a asp-action="Davet" asp-controller="Home" class="btn btn-succes">Tıkla</a>
+
+

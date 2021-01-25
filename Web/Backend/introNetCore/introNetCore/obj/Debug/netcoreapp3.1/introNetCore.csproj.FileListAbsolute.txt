@@ -102,3 +102,8 @@ C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\introNetCo
 C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\introNetCore\introNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\introNetCore\introNetCore\obj\Debug\netcoreapp3.1\introNetCore.RazorTargetAssemblyInfo.cs
 C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\introNetCore\introNetCore\obj\Debug\netcoreapp3.1\introNetCore.Views.pdb
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\introNetCore\introNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Davet.cshtml.g.cs
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\introNetCore\introNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\introNetCore\introNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Tesekkur.cshtml.g.cs
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\introNetCore\introNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Gelenler.cshtml.g.cs
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\introNetCore\introNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
