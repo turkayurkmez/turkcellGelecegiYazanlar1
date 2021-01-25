@@ -18,5 +18,7 @@ namespace storeApp.Models
         public Category Category { get; set; }
         public string ProductInfos { get; set; }
 
+        public int CategoryId { get; set; }
+
     }
 }

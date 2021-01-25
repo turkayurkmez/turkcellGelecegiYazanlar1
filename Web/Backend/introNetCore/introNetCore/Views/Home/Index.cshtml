@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1>Ana sayfa</h1>
+    <p>Sayfamıza hoş geldin!</p>
+    <p>
+        Merhaba @ViewBag.Name, şu an saat @ViewBag.Hour
+    </p>
+    @if (ViewBag.Hour < 12)
+    {
+        <p>Günaydın</p>
+    }
+    else if (ViewBag.Hour < 18)
+    {
+        <p>İyi günler</p>
+    }
+    else if (ViewBag.Hour < 20)
+    {
+        <p>İyi akşamlar</p>
+    }
+    else
+    {
+        <p>İyi geceler</p>
+    }
+    <ul>
+        @foreach (var item in ViewBag.Products)
+        {
+            <li>@item</li>
+        }
+    </ul>
+</body>
+</html>
