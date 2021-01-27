@@ -1,0 +1,11 @@
+﻿@model Product
+<div class="card">
+    <img src="@Model.ImageUrl" class="card-img-top" alt="Saat">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Description</p>
+        <p class="card-text">@Model.Price yerine @(Model.Price * (decimal)(1-Model.Discount)) </p>
+
+        <a href="#" class="btn btn-primary">Sepete Ekle</a>
+    </div>
+</div>

@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Product>
+@{
+    ViewData["Title"] = "Home Page";
+    var count = 0;
+}
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+        @if (count != 0 && count % 4 == 0)
+        {
+        @:</div>
+        @:<div class="row">
+        }
+        <div class="col-3">
+            <partial name="_ProductCard" model="@product" />
+        </div>
+        count++;
+    }
+</div>
+
+<ul class="pagination">
+    @for (int i = 1; i <= ViewBag.TotalPages; i++)
+    {
+        <li class="page-item"><a class="page-link" asp-action="Index" asp-controller="Home" asp-route-page="@i">@i</a></li>
+    }
+
+
+</ul>
+
