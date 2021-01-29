@@ -8,6 +8,11 @@ namespace miniShop.Services
 {
     public class FakeProductService : IProductService
     {
+        public void AddProduct(Product product)
+        {
+            throw new NotImplementedException();
+        }
+
         public List<Product> GetProducts()
         {
             return new List<Product>
@@ -26,6 +31,11 @@ namespace miniShop.Services
                 new Product{ Id=6, Name="Pantolon",ImageUrl="https://cdn.dsmcdn.com/mnresize/415/622/ty8/product/media/images/20200729/16/6325872/16639396/1/1_org.jpg", Description="Deneme", Price=139.90M, Discount=0.55, Rating = 4.2 }
 
             };
+        }
+
+        public List<Product> GetProductsByCategoryId(int categoryId)
+        {
+            throw new NotImplementedException();
         }
     }
 }

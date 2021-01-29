@@ -22,7 +22,7 @@
 <ul class="pagination">
     @for (int i = 1; i <= ViewBag.TotalPages; i++)
     {
-        <li class="page-item"><a class="page-link" asp-action="Index" asp-controller="Home" asp-route-page="@i">@i</a></li>
+        <li class="page-item"><a class="page-link" asp-action="Index" asp-controller="Home" asp-route-page="@i" asp-route-catid="@ViewBag.CatId">@i</a></li>
     }
 
 

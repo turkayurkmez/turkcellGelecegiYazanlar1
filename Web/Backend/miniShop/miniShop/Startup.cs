@@ -1,9 +1,11 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using miniShop.Data;
 using miniShop.Services;
 using System;
 using System.Collections.Generic;
@@ -24,9 +26,12 @@ namespace miniShop
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddTransient<IProductService, FakeProductService>();
-            services.AddTransient<ICategoryService, FakeCategoryService>();
+            services.AddTransient<IProductService, ProductService>();
+            services.AddTransient<ICategoryService, CategoryService>();
             services.AddControllersWithViews();
+            services.AddDbContext<miniShopDbContext>(option => option.UseSqlServer(Configuration.GetConnectionString("db")));
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
