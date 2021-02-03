@@ -23,6 +23,12 @@ namespace miniShop.Services
             dbContext.SaveChanges();
         }
 
+        public Product GetProductById(int id)
+        {
+            return dbContext.Products.Find(id);
+
+        }
+
         public List<Product> GetProducts()
         {
             var products = dbContext.Products.AsNoTracking().ToList();

@@ -177,3 +177,5 @@ C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\miniShop\m
 C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\miniShop\miniShop\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
 C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\miniShop\miniShop\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
 C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\miniShop\miniShop\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\miniShop\miniShop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\turka\source\repos\Turkcell - Geleceği Yazanlar\Web\Backend\miniShop\miniShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using miniShop.Models;
 using miniShop.Services;
@@ -9,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace miniShop.Controllers
 {
+    [Authorize]
     public class ProductsController : Controller
     {
         private IProductService productService;

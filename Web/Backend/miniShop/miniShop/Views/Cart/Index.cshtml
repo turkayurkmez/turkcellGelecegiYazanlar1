@@ -1,0 +1,45 @@
+﻿@model Cart
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>
+                Ürün Adı
+            </th>
+            <th>Ürün Fiyatı</th>
+            <th>Adet</th>
+            <th>Ara Toplam</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Products)
+        {
+            <tr>
+                <td>@item.Product.Name</td>
+                <td>@(item.Product.Price * (decimal)(1- item.Product.Discount))</td>
+                <td>@item.Quantity</td>
+                <td>@(item.Product.Price * (decimal)(1- item.Product.Discount) * item.Quantity) </td>
+                <td>
+                    <button class="btn btn-danger">Sil</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3">Toplam Fiyat:</td>
+            <td>@Model.GetTotalValue() TL</td>
+            <td></td>
+        </tr>
+    </tfoot>
+
+</table>
+<a class="btn btn-lg btn-success" href="@ViewBag.ReturnUrl">Alışverişe devam et</a>
+<a class="btn btn-lg btn-danger">Siparişi Tamamla</a>
+
+

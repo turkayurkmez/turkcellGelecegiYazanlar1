@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -28,9 +29,15 @@ namespace miniShop
         {
             services.AddTransient<IProductService, ProductService>();
             services.AddTransient<ICategoryService, CategoryService>();
+            services.AddTransient<IUserService, FakeUsersService>();
             services.AddControllersWithViews();
             services.AddDbContext<miniShopDbContext>(option => option.UseSqlServer(Configuration.GetConnectionString("db")));
+            services.AddSession();
 
+            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                    .AddCookie(option => {
+                        option.LoginPath = "/Account/Login";
+                    });
 
         }
 
@@ -52,6 +59,9 @@ namespace miniShop
 
             app.UseRouting();
 
+            app.UseSession();
+
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
