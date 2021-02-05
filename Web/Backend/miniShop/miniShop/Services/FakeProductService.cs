@@ -13,6 +13,11 @@ namespace miniShop.Services
             throw new NotImplementedException();
         }
 
+        public int EditProduct(Product product)
+        {
+            throw new NotImplementedException();
+        }
+
         public Product GetProductById(int id)
         {
             throw new NotImplementedException();

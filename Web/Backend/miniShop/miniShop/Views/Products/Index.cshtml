@@ -53,8 +53,9 @@
                 @Html.DisplayFor(modelItem => item.Discount)
             </td>           
           
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            <td>               
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-danger">Güncelle</a>
+                |
                 @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
                 @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
             </td>

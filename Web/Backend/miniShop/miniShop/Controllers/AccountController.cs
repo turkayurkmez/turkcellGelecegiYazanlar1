@@ -25,24 +25,29 @@ namespace miniShop.Controllers
             this.userService = userService;
         }
 
-        public IActionResult Login()
+        public IActionResult Login(string returnUrl)
         {
+            ViewBag.ReturnUrl = returnUrl;
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult> Login(UserLoginModel userLoginModel)
+        public async Task<IActionResult> Login(UserLoginModel userLoginModel, string returnUrl)
         {
             var user = userService.ValidUser(userLoginModel.UserName, userLoginModel.Password);
             if (user != null)
             {
                 List<Claim> claims = new List<Claim>();
                 claims.Add(new Claim(ClaimTypes.Name, user.Name));
-                claims.Add(new Claim(ClaimTypes.Role, "Admin"));
+                claims.Add(new Claim(ClaimTypes.Role, user.Role.Name));
 
 
                 ClaimsIdentity claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
                 ClaimsPrincipal claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
                 await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, claimsPrincipal);
+                if (Url.IsLocalUrl(returnUrl))
+                {
+                    return Redirect(returnUrl);
+                }
                 return Redirect("/");
             }
 
@@ -50,6 +55,12 @@ namespace miniShop.Controllers
             ModelState.AddModelError("hata", "Kullanıcı ya da şifre yanlış");
             return View();
 
+        }
+
+        public async Task<IActionResult> LogOut()
+        {
+            await HttpContext.SignOutAsync();
+            return Redirect("/");
         }
     }
 }

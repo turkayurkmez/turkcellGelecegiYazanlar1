@@ -4,9 +4,15 @@
     <a asp-action="Index" asp-controller="Home" class="list-group-item list-group-item-action">Ana Sayfa</a>
     @foreach (var category in Model)
     {
-        <a asp-action="Index" asp-controller="Home" asp-route-catid="@category.Id"  class="list-group-item list-group-item-action">@category.Name</a>
+        <a asp-action="Index" asp-controller="Home" asp-route-catid="@category.Id" class="list-group-item list-group-item-action">@category.Name</a>
     }
 
-   
+    @if (User.Identity.IsAuthenticated && (User.IsInRole("Admin") || User.IsInRole("Editor")))
+    {
+        <a asp-action="Index" asp-controller="Products" class="list-group-item list-group-item-action">Ürün İşlemleri</a>
+        <a asp-action="Index" asp-controller="Categories" class="list-group-item list-group-item-action">Kategori İşlemleri</a>
+
+    }
+
 
 </div>

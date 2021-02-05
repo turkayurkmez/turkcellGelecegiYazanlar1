@@ -14,13 +14,21 @@ namespace miniShop.Services
 
         public ProductService(miniShopDbContext dbContext)
         {
-             this.dbContext = dbContext;
+            this.dbContext = dbContext;
         }
 
         public void AddProduct(Product product)
         {
             dbContext.Products.Add(product);
             dbContext.SaveChanges();
+        }
+
+        public int EditProduct(Product product)
+        {
+            dbContext.Entry(product).State = EntityState.Modified;
+
+
+            return dbContext.SaveChanges();
         }
 
         public Product GetProductById(int id)

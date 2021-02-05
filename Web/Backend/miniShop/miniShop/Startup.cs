@@ -27,9 +27,9 @@ namespace miniShop
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddTransient<IProductService, ProductService>();
-            services.AddTransient<ICategoryService, CategoryService>();
-            services.AddTransient<IUserService, FakeUsersService>();
+            services.AddScoped<IProductService, ProductService>();
+            services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IUserService, FakeUsersService>();
             services.AddControllersWithViews();
             services.AddDbContext<miniShopDbContext>(option => option.UseSqlServer(Configuration.GetConnectionString("db")));
             services.AddSession();

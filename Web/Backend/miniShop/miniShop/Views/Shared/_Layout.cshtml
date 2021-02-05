@@ -6,6 +6,10 @@
     <title>@ViewData["Title"] - miniShop</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <link href="~/lib/alertify/css/themes/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/lib/alertify/css/alertify.min.css" rel="stylesheet" />
+
+
 </head>
 <body>
     <header>
@@ -22,7 +26,24 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                @if (User.IsInRole("Admin"))
+                                {
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout"> Selam patron! -  @User.Identity.Name (Çıkış yap) </a>
+                                }
+                                else if (User.IsInRole("Editor"))
+                                {
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout"> Merhaba yönetici -  @User.Identity.Name (Çıkış yap) </a>
+                                }
+
+
+                            }
+                            else
+                            {
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">Giriş Yap</a>
+                            }
+
                         </li>
                     </ul>
                 </div>
@@ -37,7 +58,7 @@
                     @RenderBody()
                 </div>
             </div>
-          
+
         </main>
     </div>
 
@@ -49,6 +70,8 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/lib/alertify/alertify.min.js"></script>
     @RenderSection("Scripts", required: false)
+
 </body>
 </html>
